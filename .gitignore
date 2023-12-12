@@ -17,6 +17,15 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
+# Gerbers
+gerber
+gerbers
+*.gbr
+*.zip
+
+# SVG
+*.svg
+
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -27,3 +36,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Mac
+.DS_Store
