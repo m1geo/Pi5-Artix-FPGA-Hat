@@ -17,8 +17,10 @@ An AMD/Xilinx Artix 50T FPGA on a Pi5 Hat with PCIe and GPIO interconnects as we
 
 * [Series 7 PCB Design Guide](https://docs.xilinx.com/v/u/en-US/ug483_7Series_PCB)
 
-* [KiwiSDR Schematic XC7A35T](http://kiwisdr.com/docs/KiwiSDR/kiwi.schematic.pdf)
-
 * [Digilent Arty Schematic XC7A100T](https://digilent.com/reference/_media/programmable-logic/arty-a7/arty-a7-e2-sch.pdf)
 
 * [Xilinx AC701 Schematic](https://www.xilinx.com/support/documents/boards_and_kits/artix-7/ac701-schematic-xtp218-rev1-0.pdf)
+
+* [KiwiSDR Schematic XC7A35T](http://kiwisdr.com/docs/KiwiSDR/kiwi.schematic.pdf)
+
+* [NetV2 Schematic XC7A35T FGG484 with PCIe](https://github.com/AlphamaxMedia/netv2-mainboard/blob/master/netv2mvp-pvt1.pdf)
