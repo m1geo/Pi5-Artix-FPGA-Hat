@@ -21,3 +21,4 @@ An AMD/Xilinx Artix 50T FPGA on a Pi5 Hat with PCIe and GPIO interconnects as we
 
 * [Digilent Arty Schematic XC7A100T](https://digilent.com/reference/_media/programmable-logic/arty-a7/arty-a7-e2-sch.pdf)
 
+* [Xilinx AC701 Schematic](https://www.xilinx.com/support/documents/boards_and_kits/artix-7/ac701-schematic-xtp218-rev1-0.pdf)
