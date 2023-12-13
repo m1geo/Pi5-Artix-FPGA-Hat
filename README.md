@@ -16,3 +16,6 @@ Proposing to use XC7A50T-2FTG256I (LCSC/JLCPCB: C2976033)
 * [Series 7 Getting Started PCIe on Kintex (should apply to Artix)](https://numato.com/kb/getting-started-with-pci-express-on-nereid/)
 
 * [KiwiSDR Schematic XC7A35T](http://kiwisdr.com/docs/KiwiSDR/kiwi.schematic.pdf)
+
+* [Digilent Arty Schematic XC7A100T](https://digilent.com/reference/_media/programmable-logic/arty-a7/arty-a7-e2-sch.pdf)
+

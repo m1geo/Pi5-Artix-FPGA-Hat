@@ -1,0 +1,57 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (title_block
+    (title "Raspberry Pi 5 Artix 50T FPGA Hat - Top Level")
+    (date "2023-12-12")
+    (rev "0.1")
+    (company "George Smart, M1GEO")
+    (comment 1 "https://github.com/m1geo/Pi5-Artix-FPGA-Hat")
+    (comment 2 "https://www.george-smart.co.uk")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 168.91 81.28) (size 36.195 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 58f29d61-b732-4149-afb6-3ea37966fd1b)
+    (property "Sheetname" "FPGA Top" (at 168.91 80.5684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "fpga_top.kicad_sch" (at 168.91 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Pi5-Artix50T-Hat"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 93.98 88.9) (size 49.53 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e4e6ab59-9796-41c2-b6d2-f170b467d852)
+    (property "Sheetname" "Raspberry Pi 5" (at 93.98 88.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "raspi5.kicad_sch" (at 93.98 110.4396 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Pi5-Artix50T-Hat"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
