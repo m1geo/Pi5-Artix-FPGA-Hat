@@ -1,7 +1,9 @@
 # Pi5-Artix-FPGA-Hat
 An AMD/Xilinx Artix 50T FPGA on a Pi5 Hat with PCIe and GPIO interconnects as well as SPI programming.
 
-Proposing to use XC7A50T-2FTG256I (LCSC/JLCPCB: C2976033)
+~~Proposing to use XC7A50T-2FTG256I (LCSC/JLCPCB: C2976033)~~ Doesn't support PCIe on this pinout?
+
+Proposing to use XC7A50T-2FGG484C (LCSC/JLCPCB: C1550658)
 
 # Links:
 
@@ -15,7 +17,12 @@ Proposing to use XC7A50T-2FTG256I (LCSC/JLCPCB: C2976033)
 
 * [Series 7 Getting Started PCIe on Kintex (should apply to Artix)](https://numato.com/kb/getting-started-with-pci-express-on-nereid/)
 
-* [KiwiSDR Schematic XC7A35T](http://kiwisdr.com/docs/KiwiSDR/kiwi.schematic.pdf)
+* [Series 7 PCB Design Guide](https://docs.xilinx.com/v/u/en-US/ug483_7Series_PCB)
 
 * [Digilent Arty Schematic XC7A100T](https://digilent.com/reference/_media/programmable-logic/arty-a7/arty-a7-e2-sch.pdf)
 
+* [Xilinx AC701 Schematic](https://www.xilinx.com/support/documents/boards_and_kits/artix-7/ac701-schematic-xtp218-rev1-0.pdf)
+
+* [KiwiSDR Schematic XC7A35T](http://kiwisdr.com/docs/KiwiSDR/kiwi.schematic.pdf)
+
+* [NetV2 Schematic XC7A35T FGG484 with PCIe](https://github.com/AlphamaxMedia/netv2-mainboard/blob/master/netv2mvp-pvt1.pdf)
