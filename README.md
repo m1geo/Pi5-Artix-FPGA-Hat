@@ -5,6 +5,10 @@ An AMD/Xilinx Artix 50T FPGA on a Pi5 Hat with PCIe and GPIO interconnects as we
 
 Proposing to use XC7A50T-2FGG484C (LCSC/JLCPCB: C1550658)
 
+# Status
+
+Schematic done; starting layout.
+
 # Links:
 
 * [Series 7 Part Guide](https://docs.xilinx.com/v/u/en-US/7-series-product-selection-guide)

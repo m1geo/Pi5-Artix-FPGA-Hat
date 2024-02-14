@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LP3878SD-ADJ")(type "KiCad")(uri "${KIPRJMOD}/libs/LP3878SD-ADJ.kicad_sym")(options "")(descr ""))
+)
