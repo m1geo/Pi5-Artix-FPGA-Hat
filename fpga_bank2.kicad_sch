@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "FPGA Power")
-    (date "2024-02-11")
+    (title "FPGA Banks 15 & 16")
+    (date "2024-02-14")
     (rev "0.1")
     (company "George Smart, M1GEO")
     (comment 1 "https://github.com/m1geo/Pi5-Artix-FPGA-Hat")
