@@ -2970,7 +2970,7 @@
     (uuid 366c0433-c887-4d97-8b9d-29a1081fe5b2)
   )
 
-  (hierarchical_label "FPGA_SPI0_CE1" (shape input) (at 127 106.045 0) (fields_autoplaced)
+  (hierarchical_label "FPGA_PI_GPIO7" (shape input) (at 127 106.045 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 21c7ef87-43da-4d44-af96-76e5cd7024ee)
   )
@@ -2978,7 +2978,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2a886ea1-58c7-4128-a985-27a374576888)
   )
-  (hierarchical_label "FPGA_SPI0_CE0" (shape input) (at 127 103.505 0) (fields_autoplaced)
+  (hierarchical_label "FPGA_PI_GPIO8" (shape input) (at 127 103.505 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3124e3b1-721c-431b-9249-34b3014c8633)
   )
