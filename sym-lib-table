@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "LP3878SD-ADJ")(type "KiCad")(uri "${KIPRJMOD}/libs/LP3878SD-ADJ.kicad_sym")(options "")(descr ""))
   (lib (name "Diodes-Incorporated-AP62200")(type "KiCad")(uri "${KIPRJMOD}/libs/Diodes-Incorporated-AP62200.kicad_sym")(options "")(descr ""))
+  (lib (name "fpga_mgt_power")(type "KiCad")(uri "${KIPRJMOD}/libs/fpga_mgt_power.kicad_sym")(options "")(descr ""))
 )
