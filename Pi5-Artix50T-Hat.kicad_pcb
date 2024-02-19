@@ -6384,7 +6384,7 @@
     (property "ki_keywords" "R resistor")
     (path "/58f29d61-b732-4149-afb6-3ea37966fd1b/478e6a6c-f816-4e6b-8386-2aa7bc333436/5bff5334-7e8d-42c5-b82e-0e7835bbf50d")
     (attr smd)
-    (fp_text reference "R17" (at 0 -1.17 90) (layer "F.SilkS")
+    (fp_text reference "R17" (at 0 -1.17 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c9f6a57d-53b3-449e-a42f-44a1782f2072)
     )
@@ -18509,8 +18509,6 @@
       (pts
         (xy 130.5 85.5)
         (xy 134.5 85.5)
-        (xy 134.5 85.5)
-        (xy 135.5 85.5)
         (xy 135.5 85.5)
         (xy 135.8 85.5)
         (xy 135.8 85)
@@ -18773,7 +18771,6 @@
       (pts
         (xy 109.25 75)
         (xy 111.75 75)
-        (xy 111.75 76.25)
         (xy 111.75 76.25)
         (xy 111.75 77.75)
         (xy 114.5 77.75)
@@ -54219,7 +54216,6 @@
         (xy 112.25 80.25)
         (xy 112.25 77.75)
         (xy 111.75 77.75)
-        (xy 111.75 76.25)
         (xy 111.75 76.25)
         (xy 111.75 75.25)
         (xy 110 75.25)
