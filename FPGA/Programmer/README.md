@@ -11,7 +11,7 @@ The image below shows the entireity of the FPGA programming.
 
 ![FPGA Progamming Init](programmer_imgs/programming_init.png)
 
-# Sending the filefile
+# Sending the Bitfile
 
 * Send the bitfile using SPI0 on the Pi5. The exact device doesn't matter as we aren't using the hardware chip select lines.
 * The Xilinx diagrams show LSB-first. The text says to use MSB-first. The FPGA works with either. My code uses MSB-first as it's the SPI standard.
