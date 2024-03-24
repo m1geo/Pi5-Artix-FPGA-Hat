@@ -28,7 +28,9 @@
 """
 
 # Bitfile path to send
-bitfile = "blinky_example.bit"
+#bitfile = "../Blinky/blinky_example.bit"
+bitfile = "../pcie_7x_0_ex/pcie_7x_0_ex.runs/impl_1/xilinx_pcie_2_1_ep_7x.bit"
+
 
 import time
 import lgpio # Linux SBC GPIO Driver: see https://pypi.org/project/lgpio/
