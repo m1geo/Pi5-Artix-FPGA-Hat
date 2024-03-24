@@ -6,11 +6,27 @@ The project uses a 4-layer PCB (which means some of the routing is a bit sub-opt
 
 The project includes pick-and-place and LCSC BoM files for JLCPCB PCBA services.
 
-# !!IMPORTANT!!
+*Both SPI programming and PCIe have been tested and are functional.*
 
-The current PCB design files include a small bug where MISO and MOSI are crossed over. It's easy to short these two pins together (the FPGA's MISO is Hi-Z) and this gets things working. The design will be updated soon.
+# Files
 
-![PCB Bug](PCB/outputs/pcb_bug_mosi_miso_bridge.png)
+The PCB design files are inside the PCB folder, along with the schematic in the PCB/outputs/ folder.
+
+The FPGA folder has a simple Blinky (flashing LED) and PCIe design based on the Xilinx Reference Design with some small mods.
+
+The FPGA/Programmer/ folder has a script for programming the FPGA via spidev and lgpio using Xilinx Serial Slave (essentially SPI).
+
+# Licence
+
+MIT Licence. See the LICENCE file included for details.
+
+Files inside FPGA/pcie_7x_0_ex/ are Copyright AMD/Xilinx. Seek their licence and terms of use if required.
+
+# Support
+
+This project comes without any support. Although I would like to help, I simply do not have the time to do so.
+
+You can drop me a donation via PayPal if you have found the project useful: [PayPal Donation to M1GEO](https://www.paypal.com/paypalme/m1geo)
 
 # Images
 

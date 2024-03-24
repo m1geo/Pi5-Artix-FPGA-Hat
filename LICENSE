@@ -3,14 +3,14 @@ MIT License
 Copyright (c) 2023 "Dr. George Smart, M1GEO."
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this hardware and associated documentation files (the "hardware"), to deal
-in the hardware without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the hardware, and to permit persons to whom the hardware is
-furnished to do so, subject to the following conditions:
+of this hardware and associated documentation files (the "design"), to deal
+in the hardware and software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the hardware, and to permit persons to whom the design
+is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the hardware.
+copies or substantial portions of the project design.
 
 THE HARDWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
