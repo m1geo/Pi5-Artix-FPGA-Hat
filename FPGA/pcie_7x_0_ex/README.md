@@ -10,7 +10,7 @@ This design is recognised by Linux on the Ras Pi 5:
 
 Once you have programmed the FPGA, the Pi will not immediately see it, since the Pi is a bit weird with hotplug detection, etc., so you'll need to run the following to kick the PCIe controller. Not really sure what this does, but, it works...
 
-echo 1000110000.pcie > /sys/bus/platform/drivers/brcm-pcie/bind
+`echo 1000110000.pcie > /sys/bus/platform/drivers/brcm-pcie/bind`
 
 # Legals
 
