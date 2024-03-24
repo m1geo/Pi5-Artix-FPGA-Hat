@@ -1313,20 +1313,20 @@
     (property "Feature" "IO Header" (at 250.19 69.85 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "6" (uuid d9644f49-998e-4579-80a0-367edbb087b2))
     (pin "1" (uuid fc51ac0a-818c-4d2a-8a76-a12cb9998a0e))
-    (pin "13" (uuid 6911d612-257e-43b5-8e98-7079030f9f6a))
+    (pin "10" (uuid b2e837bf-2bc2-4e76-89c0-d549401176e7))
+    (pin "11" (uuid d579add5-4bc7-4bf2-98ee-aae5bdc9bd73))
     (pin "12" (uuid 58888129-51ba-433c-961b-d7dbb4e0542b))
+    (pin "13" (uuid 6911d612-257e-43b5-8e98-7079030f9f6a))
+    (pin "14" (uuid 9396a37e-f2d8-45c2-aff9-60d6e74669f6))
+    (pin "2" (uuid e17afbfd-6be7-4d3b-8339-939bfa4146ac))
+    (pin "3" (uuid 80c9ec40-de2d-4f6f-8145-36c432027cb0))
     (pin "4" (uuid 53821cba-6ed7-408a-810a-9bb01a715493))
     (pin "5" (uuid f0716578-ee97-414d-a794-dd03ea7d16c2))
-    (pin "8" (uuid a648d533-4907-4db5-8284-1276449f41fb))
+    (pin "6" (uuid d9644f49-998e-4579-80a0-367edbb087b2))
     (pin "7" (uuid f2331f55-18af-4d6d-a56b-f673f830727e))
+    (pin "8" (uuid a648d533-4907-4db5-8284-1276449f41fb))
     (pin "9" (uuid 615eec78-d9e8-4498-a93f-7f4e5d3dfff9))
-    (pin "2" (uuid e17afbfd-6be7-4d3b-8339-939bfa4146ac))
-    (pin "14" (uuid 9396a37e-f2d8-45c2-aff9-60d6e74669f6))
-    (pin "11" (uuid d579add5-4bc7-4bf2-98ee-aae5bdc9bd73))
-    (pin "10" (uuid b2e837bf-2bc2-4e76-89c0-d549401176e7))
-    (pin "3" (uuid 80c9ec40-de2d-4f6f-8145-36c432027cb0))
     (instances
       (project "Pi5-Artix50T-Hat"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/58f29d61-b732-4149-afb6-3ea37966fd1b"
@@ -1354,10 +1354,10 @@
     (property "LCSC" "C5203552" (at 93.98 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "4" (uuid 57398c86-bcf3-4c67-b1ae-1f551ce27ac6))
+    (pin "1" (uuid eeabedca-03b8-4f89-aa90-68e0102911da))
     (pin "2" (uuid 94cd53da-405c-4276-82f3-16e9fb8f9b25))
     (pin "3" (uuid 988b1f4e-870c-436e-bba0-8c9da096b94b))
-    (pin "1" (uuid eeabedca-03b8-4f89-aa90-68e0102911da))
+    (pin "4" (uuid 57398c86-bcf3-4c67-b1ae-1f551ce27ac6))
     (instances
       (project "Pi5-Artix50T-Hat"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/58f29d61-b732-4149-afb6-3ea37966fd1b"
@@ -1385,8 +1385,8 @@
     (property "LCSC" "C1525" (at 81.28 74.93 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid b8162565-8711-4d3f-9829-8af6a3d81cf5))
     (pin "1" (uuid c848291d-7230-40c5-92bf-391e8a5150af))
+    (pin "2" (uuid b8162565-8711-4d3f-9829-8af6a3d81cf5))
     (instances
       (project "Pi5-Artix50T-Hat"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/58f29d61-b732-4149-afb6-3ea37966fd1b"
@@ -1464,8 +1464,8 @@
     (property "LCSC" "C1525" (at 226.06 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid f5af8c78-dcad-42fb-a573-d563c71f2e9a))
     (pin "1" (uuid 9b7bdb75-387e-473f-9635-eb92bec1d746))
+    (pin "2" (uuid f5af8c78-dcad-42fb-a573-d563c71f2e9a))
     (instances
       (project "Pi5-Artix50T-Hat"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/58f29d61-b732-4149-afb6-3ea37966fd1b"
@@ -1518,8 +1518,8 @@
     (property "LCSC" "C23733" (at 73.025 74.93 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 15a6cb23-9765-46d1-9c0b-7758fc27323d))
     (pin "1" (uuid 32b96c81-8c85-4098-87f5-ff88a729b59d))
+    (pin "2" (uuid 15a6cb23-9765-46d1-9c0b-7758fc27323d))
     (instances
       (project "Pi5-Artix50T-Hat"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/58f29d61-b732-4149-afb6-3ea37966fd1b"
@@ -1762,8 +1762,8 @@
     (property "LCSC" "C965795" (at 194.945 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 42897650-d3e4-4c45-b650-5d61fe7f403d))
     (pin "1" (uuid cab97c29-abcb-4dff-ba17-4ac7ead2011a))
+    (pin "2" (uuid 42897650-d3e4-4c45-b650-5d61fe7f403d))
     (instances
       (project "Pi5-Artix50T-Hat"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/58f29d61-b732-4149-afb6-3ea37966fd1b"

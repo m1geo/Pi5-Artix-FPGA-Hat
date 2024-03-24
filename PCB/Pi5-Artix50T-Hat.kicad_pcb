@@ -3691,7 +3691,7 @@
     (fp_line (start 1.65 1.25) (end 1.65 -1.25)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 9940294c-6e80-441e-86b5-ebf96c096dff))
     (pad "1" smd custom (at -0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 266 "Net-(JP12-A)") (pinfunction "A") (pintype "passive") (zone_connect 2)
+      (net 266 "Net-(JP12-A)") (pinfunction "A") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -3705,7 +3705,7 @@
           (width 0) (fill yes))
       ) (tstamp f7494528-9417-471f-812e-8f3cbdaefbce))
     (pad "2" smd custom (at 0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 19 "+3V3") (pinfunction "B") (pintype "passive") (zone_connect 2)
+      (net 19 "+3V3") (pinfunction "B") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -5943,7 +5943,7 @@
     (fp_line (start 1.65 1.25) (end 1.65 -1.25)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp ed8a73a9-83fa-4823-adc1-72ddf143af29))
     (pad "1" smd custom (at -0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 265 "Net-(JP11-A)") (pinfunction "A") (pintype "passive") (zone_connect 2)
+      (net 265 "Net-(JP11-A)") (pinfunction "A") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -5957,7 +5957,7 @@
           (width 0) (fill yes))
       ) (tstamp d6b95415-edf3-412e-aafa-8400ef6d4f88))
     (pad "2" smd custom (at 0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 11 "+1V8") (pinfunction "B") (pintype "passive") (zone_connect 2)
+      (net 11 "+1V8") (pinfunction "B") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -6432,7 +6432,7 @@
     (fp_line (start 1.65 1.25) (end 1.65 -1.25)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 6552c5d9-4c4f-450f-ab4c-e135b54f8593))
     (pad "1" smd custom (at -0.725 0) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 309 "/FPGA Top/FPGA Power/1V0_FB") (pinfunction "A") (pintype "passive") (zone_connect 2)
+      (net 309 "/FPGA Top/FPGA Power/1V0_FB") (pinfunction "A") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -6446,7 +6446,7 @@
           (width 0) (fill yes))
       ) (tstamp 8cb4adcd-babc-420b-80da-231d64c9ed6a))
     (pad "2" smd custom (at 0.725 0) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 307 "+1V0_MGTAVCC") (pinfunction "B") (pintype "passive") (zone_connect 2)
+      (net 307 "+1V0_MGTAVCC") (pinfunction "B") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -7074,7 +7074,7 @@
     (fp_line (start 1.65 1.25) (end 1.65 -1.25)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 5b2e01a9-a885-401e-8438-addbea61e41e))
     (pad "1" smd custom (at -0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 264 "Net-(JP10-A)") (pinfunction "A") (pintype "passive") (zone_connect 2)
+      (net 264 "Net-(JP10-A)") (pinfunction "A") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -7088,7 +7088,7 @@
           (width 0) (fill yes))
       ) (tstamp d68ed225-723a-443f-afcd-a4b80a9d1454))
     (pad "2" smd custom (at 0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 308 "+1V2_MGTAVTT") (pinfunction "B") (pintype "passive") (zone_connect 2)
+      (net 308 "+1V2_MGTAVTT") (pinfunction "B") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -7250,7 +7250,7 @@
     (fp_line (start 1.65 1.25) (end 1.65 -1.25)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp cf8dc032-9fc7-482d-b411-a353af7844d7))
     (pad "1" smd custom (at -0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 263 "Net-(JP9-A)") (pinfunction "A") (pintype "passive") (zone_connect 2)
+      (net 263 "Net-(JP9-A)") (pinfunction "A") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly
@@ -7264,7 +7264,7 @@
           (width 0) (fill yes))
       ) (tstamp 98f00e48-146e-4e4b-8c95-ab48f98dc0e6))
     (pad "2" smd custom (at 0.725 0 90) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
-      (net 10 "+1V0") (pinfunction "B") (pintype "passive") (zone_connect 2)
+      (net 10 "+1V0") (pinfunction "B") (pintype "passive") (zone_connect 2) (thermal_bridge_angle 45)
       (options (clearance outline) (anchor rect))
       (primitives
         (gr_poly

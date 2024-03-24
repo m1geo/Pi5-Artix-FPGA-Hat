@@ -2391,7 +2391,7 @@
     (uuid 4db46c73-9dff-41e5-8281-ef41ea1cf075)
   )
   (text "CHANGES TO BE MADE:\n* Add 2k2 resistor to PCIE_DET_WAKE (maybe R17?)\n* Remove R17 as it's not needed. Probably should be on the DET_WAKE pin.\n* Swap MISO & MOSI for programming"
-    (at 201.93 121.92 0)
+    (at 34.29 175.26 0)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 4dbe84ef-ee3b-4921-bfe3-ee21777d4f40)
   )
@@ -2862,8 +2862,8 @@
     (property "LCSC" "C1525" (at 158.75 120.65 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid b4e6c9cd-8adf-4ffb-ab00-83933c99e406))
     (pin "1" (uuid 106900a5-92a4-4bb4-b692-e20b1a1eba67))
+    (pin "2" (uuid b4e6c9cd-8adf-4ffb-ab00-83933c99e406))
     (instances
       (project "Pi5-Artix50T-Hat"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/e4e6ab59-9796-41c2-b6d2-f170b467d852"
