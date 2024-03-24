@@ -2390,6 +2390,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4db46c73-9dff-41e5-8281-ef41ea1cf075)
   )
+  (text "CHANGES TO BE MADE:\n* Add 2k2 resistor to PCIE_DET_WAKE (maybe R17?)\n* Remove R17 as it's not needed. Probably should be on the DET_WAKE pin.\n* Swap MISO & MOSI for programming"
+    (at 201.93 121.92 0)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+    (uuid 4dbe84ef-ee3b-4921-bfe3-ee21777d4f40)
+  )
   (text "EEPROM" (at 76.2 39.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5ccae405-ef80-45e8-a4cf-e5f84b5eb54a)
