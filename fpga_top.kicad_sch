@@ -1028,6 +1028,11 @@
     (uuid feffe744-197c-4bd5-90a3-ae4cca3255e7)
   )
 
+  (text "SOMEWHERE MISO and MOSI SWAP!!\nShort MOSI & MISO to get this working"
+    (at 85.09 160.02 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid 8e341f65-ded5-4dfd-96ac-504fb6baf5e6)
+  )
   (text "Shared clock:\nProgramming &\nLogic for SPI" (at 129.54 127.635 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid bb999ce9-f804-488b-97f5-b5e81aa207ba)

@@ -1,6 +1,6 @@
 #
 # George Smart, M1GEO
-# Pi5-Artix50T-Hat Blinky LED Example Verilog
+# Pi5-Artix50T-Hat Blinky LED Example Constraints
 # March 2024
 # https://github.com/m1geo/Pi5-Artix-FPGA-Hat
 #

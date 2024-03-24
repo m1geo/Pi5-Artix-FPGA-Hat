@@ -4035,8 +4035,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a61e265e-8032-4134-bd58-a2a1dcb357b9)
   )
-  (text "(active low indicates FPGA ready to receive bitstream)"
-    (at 162.56 99.06 0)
+  (text "(active low indicates FPGA is initalising)" (at 162.56 99.06 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid af3c15d7-4da6-4afc-925e-0e293854e316)
   )
