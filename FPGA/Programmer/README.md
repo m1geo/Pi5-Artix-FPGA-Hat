@@ -1,3 +1,7 @@
+# FPGA Programming Script Notes
+
+Note that the `lgpio.gpiochip_open(n)` function changes between Pi4 and Pi5, with Pi4/CM4 being gpiochip 0 and Pi5 (devices with the RP1 chip) being gpiochip 4.
+
 # FPGA Programming Script
 
 The image below shows the entireity of the FPGA programming.
