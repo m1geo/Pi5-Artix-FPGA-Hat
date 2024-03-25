@@ -38,7 +38,7 @@ import spidev # RasPi SPI Driver: see https://pypi.org/project/spidev/
 
 
 ### lgpio Boilerplate
-gpio = lgpio.gpiochip_open(4) # 4 is correct for Pi5 with RP1 dynamic GPIO mem (/dev/gpiochip4).
+gpio = lgpio.gpiochip_open(4) # 4 is correct for Pi5 with RP1 dynamic GPIO mem (/dev/gpiochip4). 0 for Pi4/CM4.
 FPGA_DONE  = 23 # GPIO23
 FPGA_INITB = 24 # GPIO24
 FPGA_PROGB = 25 # GPIO25
